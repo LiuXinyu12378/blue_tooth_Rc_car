@@ -15,24 +15,24 @@
 ![asdas](https://raw.githubusercontent.com/LiuXinyu12378/blue_tooth_Rc_car/master/picture/IMG_20180927_193842.jpg)
 
 ### 近距离看一下
-![asdas](https://raw.githubusercontent.com/LiuXinyu12378/blue_tooth_RCcar/master/picture/IMG_20180927_193850.jpg)
+![asdas](https://raw.githubusercontent.com/LiuXinyu12378/blue_tooth_Rc_car/master/picture/IMG_20180927_193850.jpg)
 
 ### 引出导线
-![asdas](https://raw.githubusercontent.com/LiuXinyu12378/blue_tooth_RCcar/master/picture/IMG_20180927_195423.jpg)
+![asdas](https://raw.githubusercontent.com/LiuXinyu12378/blue_tooth_Rc_car/master/picture/IMG_20180927_195423.jpg)
 
 
 ### 再将导线延长加上杜邦线接头
-![asdas](https://raw.githubusercontent.com/LiuXinyu12378/blue_tooth_RCcar/master/picture/IMG_20180927_195409.jpg)
+![asdas](https://raw.githubusercontent.com/LiuXinyu12378/blue_tooth_Rc_car/master/picture/IMG_20180927_195409.jpg)
 
 
 
 ### 把车按原样装回去，但要把刚才的线头漏出来，这是装好后的效果，电池也是自己组装的大容量电池，把线头接到esp32上，程序在上面,原来的车是没有pwm的，直接是最大速度，总是漂移，这次改装加上了pwm好多了，可降速，可加速
-![asdas](https://raw.githubusercontent.com/LiuXinyu12378/blue_tooth_RCcar/master/picture/IMG_20180928_194448.jpg)
+![asdas](https://raw.githubusercontent.com/LiuXinyu12378/blue_tooth_Rc_car/master/picture/IMG_20180928_194448.jpg)
 
 
 ### 手机连接ESP32蓝牙，用的是蓝牙串口APP，设置好发送的命令
-![asdas](https://raw.githubusercontent.com/LiuXinyu12378/blue_tooth_RCcar/master/picture/Screenshot_2018_0928_201425.jpg)
-![asdas](https://raw.githubusercontent.com/LiuXinyu12378/blue_tooth_RCcar/master/picture/Screenshot_2018_0928_194422.jpg)
+![asdas](https://raw.githubusercontent.com/LiuXinyu12378/blue_tooth_Rc_car/master/picture/Screenshot_2018_0928_201425.jpg)
+![asdas](https://raw.githubusercontent.com/LiuXinyu12378/blue_tooth_Rc_car/master/picture/Screenshot_2018_0928_194422.jpg)
 
 
 
