@@ -6,13 +6,13 @@
 
 ###  就是下面这辆车
 
-![asdas](https://raw.githubusercontent.com/LiuXinyu12378/blue_tooth_RCcar/master/picture/IMG_20180927_210749.jpg)
+![asdas](https://raw.githubusercontent.com/LiuXinyu12378/blue_tooth_Rc_car/master/picture/IMG_20180927_210749.jpg)
 
 
 ### 拆车，拆到露出主电路板位置，然后用万用表测量，分别找出它的电源正负极vcc，gnd，然后找出左右转向控制信号的触点，再找出前进后退信号的触点，用导线把这些触点分别引出
 
 
-![asdas](https://raw.githubusercontent.com/LiuXinyu12378/blue_tooth_RCcar/master/picture/IMG_20180927_193842.jpg)
+![asdas](https://raw.githubusercontent.com/LiuXinyu12378/blue_tooth_Rc_car/master/picture/IMG_20180927_193842.jpg)
 
 ### 近距离看一下
 ![asdas](https://raw.githubusercontent.com/LiuXinyu12378/blue_tooth_RCcar/master/picture/IMG_20180927_193850.jpg)
